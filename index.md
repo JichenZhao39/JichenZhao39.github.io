@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Jichen Zhao blog
 
 You can use the [editor on GitHub](https://github.com/JichenZhao39/JichenZhao39.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
